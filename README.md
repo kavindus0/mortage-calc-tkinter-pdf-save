@@ -50,8 +50,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 - The application uses the fpdf library for generating PDF reports.
 
  ## Screenshots
-    (https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20202957.png)
+    https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20202957.png
 
-    (https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20203005.png)
+    https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20203005.png
 
-    (https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20203041.png)
+    https://github.com/kavindus0/mortage-calc-tkinter-pdf-save/blob/main/demo-images/Screenshot%202023-11-06%20203041.png
