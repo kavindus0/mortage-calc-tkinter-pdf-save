@@ -25,10 +25,8 @@ pip install numpy fpdf
 To run the application, execute the following command in your terminal:
 
 ```
-python <filename>.py
+python main.py
 ```
-
-Replace `<filename>` with the name of the Python file containing the code.
 
 ## Using the Application
 
